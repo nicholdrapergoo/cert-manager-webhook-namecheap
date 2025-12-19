@@ -13,7 +13,6 @@
 
 # Ignore the built binary
 cert-manager-webhook-namecheap
-deploy
 webhook 
 
 # Make artifacts
